@@ -1,0 +1,18 @@
+{
+    "shuffler_perk_name" : "Shuffler",
+    "shuffler_perk_desc" : "##The Gambler## is already well known, but what about their lesser known younger brother ##The Shuffler##?",
+    "menu_shuffler_deck_1_name": "Overhand",
+    "menu_shuffler_deck_1_desc": "",
+    "menu_shuffler_deck_3_name": "Riffle",
+    "menu_shuffler_deck_3_desc": "",
+    "menu_shuffler_deck_5_name": "One-Handed",
+    "menu_shuffler_deck_5_desc": "",
+    "menu_shuffler_deck_7_name": "Faro",
+    "menu_shuffler_deck_7_desc": "",
+    "menu_shuffler_deck_9_name": "Cascade",
+    "menu_shuffler_deck_9_desc": "",
+    "menu_deckall_2_desc": "The headshot damage of your ranged weapons is increased by ##25%##.",
+    "menu_deckall_4_desc": "Your concealment is increased by ##1##.\n\nYour armor's movement speed penalty is decreased by ##15%##.\n\nThe experience when you complete a day of a heist is increased ##45%##.",
+    "menu_deckall_6_desc": "You can now equip the Armor Bag as a deployable.\n\nYour ammo pickup rate is increased by ##35%##, for a total of ##135%##.",
+    "menu_deckall_8_desc": "The damage of your ranged weapons is increased by ##5%##.\n\nYou interact with Doctor Bags ##20%## faster.\n\nNote: The damage bonus from this perk does not apply to throwables, grenade launchers, and rocket launchers."
+}

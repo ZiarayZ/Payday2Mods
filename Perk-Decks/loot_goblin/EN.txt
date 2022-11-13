@@ -1,0 +1,18 @@
+{
+    "loot_goblin_perk_name" : "Loot Goblin",
+    "loot_goblin_perk_desc" : "Loot Goblins, nimble and greedy little fellas.",
+    "menu_loot_goblin_deck_1_name": "Loot Carrier",
+    "menu_loot_goblin_deck_1_desc": "Buffed when carrying a bag, buff varies by bag type.\n\nThe value of the bag determines the strength of the buff in most cases.\n\n\nFor example:\n\nCocaine will buff movement speed.",
+    "menu_loot_goblin_deck_3_name": "Quick Hands",
+    "menu_loot_goblin_deck_3_desc": "Increase stats with loose cash.\nFor every ##25k## you collect in ##loose cash## gain ##1%## stat boost up to ##10%##.\n\nStat boost resets once ##downed##.",
+    "menu_loot_goblin_deck_5_name": "Secret Stash",
+    "menu_loot_goblin_deck_5_desc": "##Loot Carrier## is permenant untill a different bag is picked up.\n\nLoose Cash collected by ##you and your crew## count towards the stat boost.\nIncreased ##Quick Hands##'s limit to ##20%##.",
+    "menu_loot_goblin_deck_7_name": "Deep Pockets",
+    "menu_loot_goblin_deck_7_desc": "Stats from ##Quick Hands## are no longer lost on down but are reduced to ##33%##.\n\nIncreased ##Quick Hands##'s limit to ##30%##.",
+    "menu_loot_goblin_deck_9_name": "Pocket Dimension",
+    "menu_loot_goblin_deck_9_desc": "",
+    "menu_deckall_2_desc": "The headshot damage of your ranged weapons is increased by ##25%##.",
+    "menu_deckall_4_desc": "Your concealment is increased by ##1##.\n\nYour armor's movement speed penalty is decreased by ##15%##.\n\nThe experience when you complete a day of a heist is increased ##45%##.",
+    "menu_deckall_6_desc": "You can now equip the Armor Bag as a deployable.\n\nYour ammo pickup rate is increased by ##35%##, for a total of ##135%##.",
+    "menu_deckall_8_desc": "The damage of your ranged weapons is increased by ##5%##.\n\nYou interact with Doctor Bags ##20%## faster.\n\nNote: The damage bonus from this perk does not apply to throwables, grenade launchers, and rocket launchers."
+}

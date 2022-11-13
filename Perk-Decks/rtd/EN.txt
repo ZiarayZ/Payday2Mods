@@ -1,0 +1,18 @@
+{
+    "rtd_perk_name" : "RTD",
+    "rtd_perk_desc" : "Roll The Dice",
+    "menu_rtd_perk_1_name": "",
+    "menu_rtd_perk_1_desc": "",
+    "menu_rtd_perk_3_name": "",
+    "menu_rtd_perk_3_desc": "",
+    "menu_rtd_perk_5_name": "",
+    "menu_rtd_perk_5_desc": "",
+    "menu_rtd_perk_7_name": "",
+    "menu_rtd_perk_7_desc": "",
+    "menu_rtd_perk_9_name": "",
+    "menu_rtd_perk_9_desc": "",
+    "menu_deckall_2_desc": "The headshot damage of your ranged weapons is increased by ##25%##.",
+    "menu_deckall_4_desc": "Your concealment is increased by ##1##.\n\nYour armor's movement speed penalty is decreased by ##15%##.\n\nThe experience when you complete a day of a heist is increased ##45%##.",
+    "menu_deckall_6_desc": "You can now equip the Armor Bag as a deployable.\n\nYour ammo pickup rate is increased by ##35%##, for a total of ##135%##.",
+    "menu_deckall_8_desc": "The damage of your ranged weapons is increased by ##5%##.\n\nYou interact with Doctor Bags ##20%## faster.\n\nNote: The damage bonus from this perk does not apply to throwables, grenade launchers, and rocket launchers."
+}
