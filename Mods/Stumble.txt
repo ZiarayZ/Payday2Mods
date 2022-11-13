@@ -1,0 +1,5 @@
+{
+    "mod_name" : "Stumble & Trip",
+    "mod_desc" : "Adds a small chance that you trip whilst running.\nFor those who want to be clumsy.\n\nThe Armor version depletes all armor on trip.\nThe Health version deals health damage on trip, but replenishes armor.",
+    "mod_video" : ""
+}
