@@ -1,0 +1,5 @@
+{
+    "mod_name" : "Jump and Crouch in Casing Mode",
+    "mod_desc" : "My first Payday 2 mod.\nThe same as ##Dr_Newbie##'s but mutes the "No suspicious actions allowed in casing mode." notification.\nOriginal: ##https://modworkshop.net/mod/21592##\n\nWARNING:\nAny mod that hooks onto the check jump and check duck methods in PlayerMaskOff might be incompatible.",
+    "mod_video" : ""
+}
