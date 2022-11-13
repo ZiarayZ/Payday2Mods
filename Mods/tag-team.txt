@@ -1,0 +1,5 @@
+{
+    "mod_name" : "Tag Team Absorption Tweak",
+    "mod_desc" : "Absorption now stays active until ##60## seconds after the tag effect ends (regardless of cooldown).\nUse throwable ability to cancel this effect before the ##60## seconds is up.\nCannot tag another unit until after the ##60## seconds or after the effect is cancelled.",
+    "mod_video" : ""
+}
